@@ -1,1 +1,2 @@
-# Lyapunov-Characteristic-Exponents
+# Lyapunov Characteristic Exponents
+
