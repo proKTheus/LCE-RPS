@@ -1,4 +1,4 @@
-# Lyapunov Characteristic Exponents In Rock-Paper-Scissors Gameame
+# Lyapunov Characteristic Exponents In Rock-Paper-Scissors Game
 
 Compute Lyapunov Characteristic Exponents (LCEs) for the pestilent Rock–Paper–Scissors (RPS) mean-field ODE model.  
 It uses a Benettin-style algorithm with Gram–Schmidt reorthonormalization and a 4th-order Runge–Kutta (RK4) integrator, and supports parameter sweeps in the pest strength `q`.
